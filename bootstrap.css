@@ -1,0 +1,21 @@
+body{
+    padding:0 6rem;
+}
+
+.startup{
+color: #1E0E62;
+}
+.container-nav a{
+    color:#15143966;
+}
+.login{
+color:#25DAC5;    
+}
+.signup-button{
+    background-color: #25DAC5;
+}
+@media(max-width:997px){
+    body{
+        padding:1rem;
+    }
+}
